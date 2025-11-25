@@ -37,7 +37,7 @@ The analysis identified three distinct customer segments:
 
 ### 📄 Documentation
 * [**Full Research Paper (PDF)**](./Beyond_the_Prediction.pdf) - Includes Methodology, Literature Review, and Strategic Discussion.
-* [**Source Code (Jupyter Notebook)**](./Churn_Analysis_Notebook.ipynb)
+* [**Source Code (Google Colab notebookk)**](./CaseStudiesInML_CustomerRetention.ipynb)
 
 ---
 *This project was completed as a Case Study in Machine Learning.*
